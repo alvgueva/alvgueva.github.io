@@ -7,7 +7,7 @@ navbar:
     - text: "Portfolio"
       href: portfolio.html
   right: 
-    - icon: fab fa-envelope fa-lg
+    - icon: fa-envelope fa-lg
       href: mailto:<alvgueva@email.com>
     - icon: fab fa-github fa-lg
       href: https://github.com/alvgueva/alvgueva.github.io

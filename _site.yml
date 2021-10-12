@@ -9,8 +9,8 @@ navbar:
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<alvgueva@email.com>
-    - icon: fab fa-github
+    - icon: fa-github
       href: https://github.com/alvgueva/alvgueva.github.io
-    - icon: fab fa-linkedin
+    - icon: fa-linkedin
       href: https://www.linkedin.com/in/alvgueva/
       

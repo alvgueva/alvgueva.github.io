@@ -1,0 +1,16 @@
+name: "Alvaro Guevara"
+navbar:
+  title: "My Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<alvgueva@email.com>
+    - icon: fa fa-github fa-lg
+      href: https://github.com/alvgueva/alvgueva.github.io
+    - icon: fa fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alvgueva/
+      

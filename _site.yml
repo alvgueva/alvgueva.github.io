@@ -1,6 +1,6 @@
 name: "Alvaro Guevara"
 navbar:
-  title: "AG Portfolio"
+  title: "Alvaro Guevara"
   left:
     - text: "Home"
       href: index.html
